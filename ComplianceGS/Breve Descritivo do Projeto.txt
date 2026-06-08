@@ -1,0 +1,7 @@
+Breve Descritivo do Projeto
+
+O AstroTrack é uma solução de logística satelital desenvolvida para realizar o monitoramento contínuo de veículos e cargas em regiões sem cobertura de redes móveis convencionais, como 4G e 5G. A proposta utiliza dispositivos IoT instalados nos veículos para coletar dados de localização GPS e informações operacionais, transmitindo esses dados por meio de comunicação via satélite para uma plataforma centralizada.
+
+O sistema é composto por uma API de gerenciamento, banco de dados, painel web para gestores logísticos e aplicativo mobile para acompanhamento das operações. Seu principal objetivo é aumentar a segurança das cargas, garantir rastreamento em tempo real e melhorar a eficiência logística em áreas remotas.
+
+O escopo do projeto contempla a captura e transmissão de dados de localização, processamento das informações recebidas, geração de alertas operacionais, armazenamento histórico das viagens e disponibilização das informações para monitoramento e tomada de decisão. Dessa forma, o AstroTrack contribui para a redução de riscos operacionais, aumento da confiabilidade do transporte e otimização dos processos logísticos.
